@@ -6,7 +6,7 @@ import {
   DiReact,
   DiNodejs,
   DiMongodb,
-  DiJava,
+  DiPython,
 } from "react-icons/di";
 import {
   SiMysql,
@@ -16,30 +16,26 @@ import { TbBrandGolang } from "react-icons/tb";
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-      
       <Col xs={4} md={2} className="tech-icons">
-        <DiJavascript1 />
+        <DiPython />
       </Col>
-      
-      <Col xs={4} md={2} className="tech-icons">
-        <DiNodejs />
-      </Col>
+
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />
       </Col>
 
       <Col xs={4} md={2} className="tech-icons">
-        <DiMongodb />
-      </Col>
-      
-    
-      <Col xs={4} md={2} className="tech-icons">
         <SiMysql />
       </Col>
       
-      <Col xs={4} md={2} className="tech-icons">
-        <DiJava />
+      {/* <Col xs={4} md={2} className="tech-icons">
+        <DiNodejs />
       </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
+        <DiMongodb />
+      </Col> */}
+      
     </Row>
   );
 }

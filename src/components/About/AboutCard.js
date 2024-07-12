@@ -9,8 +9,8 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Soumya Ranjan </span>
-            from <span className="purple"> Mumbai, India.</span>
-            <br /> I am a final year student pursuing MCA from Vivekanand Education Society Institute of Technology, Mumbai
+            from <span className="purple"> Mumbai</span>
+            <br /> I am an MCA Postgraduate from Vivekanand Education Society's Institute of Technology, Mumbai
             
             <br />
             

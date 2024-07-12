@@ -3,14 +3,14 @@ import { Col, Row } from "react-bootstrap";
 import {
   SiVisualstudiocode,
   SiPostman,
-  SiMacos,
+  SiGooglecolab,
 } from "react-icons/si";
 
 function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <SiMacos />
+      <SiGooglecolab />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiVisualstudiocode />

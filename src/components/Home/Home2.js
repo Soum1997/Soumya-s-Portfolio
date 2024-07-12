@@ -22,9 +22,9 @@ function Home2() {
               I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />I have build projects using Python, MERN, HTML-CSS-JS, 
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> . </b>
               </i>
               <br />
               <br />
@@ -33,20 +33,19 @@ function Home2() {
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Web Development
+                  Web Development and Machine Learning
                 </b>
               </i>
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              with
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
                 </b>
               </i>
-              &nbsp; like
+              &nbsp;
               <i>
                 <b className="purple"> React.js</b>
               </i>
